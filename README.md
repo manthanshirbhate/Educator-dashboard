@@ -1,1 +1,1 @@
-# Educator-dashboard
+this is the dashboard for course website
